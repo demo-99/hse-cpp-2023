@@ -21,6 +21,3 @@
 
 ### SSH + git
 https://gitlab.cpp-hse.ru/levanovd/2023-base-cpp/-/blob/main/SETUP.md
-
-Секрет для регистрации `lovecpp-2210-1`
-
