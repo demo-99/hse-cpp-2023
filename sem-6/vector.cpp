@@ -32,7 +32,7 @@ vector<long> prodVector(const vector<long>& v) {
 }
 
 int main() {
-    vector<long> vec = prodVector();
+    vector<long> vec = prodVector({1, 2, 3, 4});
     for (auto it = vec.begin(); it != vec.end(); ++it) {
       cout << *it << endl;
     }
